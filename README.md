@@ -10,12 +10,12 @@
 https://github.com/noonwendy/class-feedback-assistant-download/releases/latest/download/class-feedback-assistant-windows.zip
 ```
 
-当前公开版本：`v0.1.6`
+当前公开版本：`v0.1.7`
 
 SHA256：
 
 ```text
-175D07E042D375034B24FC79281A79BC862B841A6C0EF0FBEAEDD856A4A7CECB
+657F144954A66D244AEB610F36B7FA0BE5F607A3D2C4A499357A4948147B1FE7
 ```
 
 ## 启动
